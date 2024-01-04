@@ -7,22 +7,22 @@ version: 2
 
 # Personal info
 name: Xian Liu
-title: Business Analyst
+title: Aspiring Business Data Analyst
 email: xianqqliu@outlook.com
-website: www.github.com/sproogen/resume-theme
+website: www.bluebeatlehd.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
 github_username:  BlueBeatleHD
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# dribbble_username: 
+# facebook_username: 
+# flickr_username: 
+#instagram_username: jameswgrant
+linkedin_username: xianqqliu
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
