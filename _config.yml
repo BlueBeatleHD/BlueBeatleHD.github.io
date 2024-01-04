@@ -23,15 +23,15 @@ github_username:  BlueBeatleHD
 # flickr_username: 
 #instagram_username: jameswgrant
 linkedin_username: xianqqliu
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+# xing_username: 
+# pinterest_username: 
+youtube_username: 
+# googleplus_username: 
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title:
   icon: fas fa-globe
   url: https://www.itsgoingto.be
 # - title: another link
