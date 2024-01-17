@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Xian Liu
-title: Aspiring Business Data Analyst
+title: Aspiring Business and Data Analyst
 email: xianqqliu@outlook.com
 website: www.bluebeatlehd.github.io
 
@@ -33,7 +33,7 @@ youtube_username:
 additional_links:
 - title:
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Xian, a recent graduate aspiring to excel as a Business Data Analyst. I'm passionate about unraveling insights from data to drive informed business decisions. Eager to leverage analytical skills and a keen interest in data interpretation, I aim to contribute meaningfully to the field of data analytics.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Technology</mark> and <mark>Analytics</mark>
 
 content:
   - title: Projects # Title for the section
