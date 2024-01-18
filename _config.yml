@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Xian, a recent graduate aspiring to excel as a Business Data Analyst. I'm passionate about unraveling insights from data to drive informed business decisions. Eager to leverage analytical skills and a keen interest in data interpretation, I aim to contribute meaningfully to the field of data analytics.
 
-  I am most skilled in: <mark>Technology</mark> and <mark>Analytics</mark>
+  I am most skilled in: <mark>Technology Management</mark> and <mark>Data Analytics</mark>
 
 content:
   - title: Projects # Title for the section
@@ -107,6 +107,16 @@ content:
             - Implemented efficient supply chain management strategies, using a local database, optimizing inventory levels and ensuring timely delivery and use of goods.
             - Simplified monthly revenue calculation methods using Excel and Power BI to analyzed business growth using KPIs and prepared payroll information.
             - Monitored compliance with health and fire regulations regarding food preparation, serving, and building maintenance in lodging and dining facilities.
+            
+      - layout: left
+        title: Freelance Tutoring
+        # link_text: boringcompany.com
+        sub_title: Tutor
+        caption: October 2020 - May 2022
+        quote: >
+          Before I entered the IT field I was a chemistry student. Many of my classmates struggled in early level courses. I spent a large portion of time teaching the concepts in our group chat. I started tutoring when one student requested a one-on-one environment.
+        description: | # this will include new lines to allow paragraph
+            - 
 
 
 
