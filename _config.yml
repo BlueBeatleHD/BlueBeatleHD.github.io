@@ -32,7 +32,7 @@ youtube_username:
 # Additional icon links
 additional_links:
 - title:
-  icon: fas fa-globe
+  icon: 
   url:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -49,6 +49,8 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Xian, a recent graduate aspiring to excel as a Business Data Analyst. I'm passionate about unraveling insights from data to drive informed business decisions. Eager to leverage analytical skills and a keen interest in data interpretation, I aim to contribute meaningfully to the field of data analytics.
+  
+  I am actively exploring employment opportunities that not only immerse me in the realm of business and data analytics, but also foster my professional growth, and  continually broaden my expertise and propel my career forward.
 
   I am most skilled in: <mark>Technology Management</mark> and <mark>Data Analytics</mark>
 
@@ -114,9 +116,12 @@ content:
         sub_title: Tutor
         caption: October 2020 - May 2022
         quote: >
-          Before I entered the IT field I was a chemistry student. Many of my classmates struggled in early level courses. I spent a large portion of time teaching the concepts in our group chat. I started tutoring when one student requested a one-on-one environment.
+          Before I entered the IT field I was a chemistry student. Many of my classmates struggled in early level courses. I spent a large portion of time teaching the concepts in our group chat. I started tutoring when one student requested a one-on-one environment. Which led others to also request the service.
         description: | # this will include new lines to allow paragraph
-            - 
+            - Conducted one-on-one tutoring sessions using online platforms such as Zoom, ensuring personalized attention and tailored teaching methods to meet individual learning needs.
+            - Tutored in classes such as statistics, trigonometry, algebra, general chemistry, and organic chemistry.
+            - Assisted students in reviewing for upcoming exams and analyzing past exams to identify areas of weakness, devising targeted strategies to address knowledge gaps and improve exam scores.
+            - Regularly monitored and evaluated student progress regularly, providing data-driven feedback to help students meet academic goals.
 
 
 
