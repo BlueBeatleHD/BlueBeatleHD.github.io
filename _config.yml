@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am actively exploring employment opportunities that not only immerse me in the realm of business and data analytics, but also foster my professional growth, and  continually broaden my expertise and propel my career forward.
 
-  I am most skilled in: <mark>Technology Management</mark> and <mark>Data Analytics</mark>
+  I am most skilled in: <mark>Data Analytics</mark> and <mark>Technology Management</mark>
 
 content:
   - title: Projects # Title for the section
@@ -88,10 +88,23 @@ content:
           - Database Management
           - Analyzing and Visualizing Data with Power BI
           - Advanced Data Visualization with Excel
+          - Applied Data Reporting
           - Data Integration & Manipulation
           - Data Analytics Management
           - Data Analytics Technologies
-
+          
+          Technology and management:
+          - Project Management
+          - Agile Project Management
+          - Operations Management
+          - Web Systems and Technologies
+          - Operations Management
+          - Leadership and Supervision
+          - Managing Cultural Diversity
+          
+          
+         
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
