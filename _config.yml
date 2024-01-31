@@ -36,7 +36,7 @@ additional_links:
 - title: Download Resume
   icon: fas fa-file-pdf
   url: BlueBeatleHD.github.io/Resume/XL-Resume.pdf
-  
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -143,13 +143,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in analytics and technology some of my other interests and hobbies are:
       - Aviation
       - Gaming
-      - Weight lifting
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      - traveling
 
 # Footer
 footer_show_references: true
