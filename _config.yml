@@ -29,8 +29,13 @@ youtube_username:
 # googleplus_username: 
 # orcid_username: 0000-0000-0000-0000
 
+
+
 # Additional icon links
 additional_links:
+- title: Download Resume
+    icon: fas fa-file-pdf
+    url: /path/to/your/resume.pdf
 - title:
   icon: fas fa-globe
   url: bluebeatlehd.github.io
@@ -108,9 +113,9 @@ content:
     content:
       - layout: left
         title: No 1 Wok
-        # link_text: boringcompany.com
+        # link_text: 
         sub_title: Associate Manager
-        caption: August 2018 - September 2023
+        caption: August 2018 - December 2023
         quote: >
           I started working at my parents resturant while I was attending school. I implemented strategies to streamline the end of month revenue calculations, contributing significantly to the accuracy and efficiency. This experience allowed me to blend my academic and practical skills, fostering a valuable and hands-on learning environment.
         description: | # this will include new lines to allow paragraphs
@@ -123,7 +128,7 @@ content:
             
       - layout: left
         title: Freelance Tutoring
-        # link_text: boringcompany.com
+        # link_text: 
         sub_title: Tutor
         caption: October 2020 - May 2022
         quote: >
