@@ -34,8 +34,8 @@ youtube_username:
 # Additional icon links
 additional_links:
 - title: Download Resume
-    icon: fas fa-file-pdf
-    url: /path/to/your/resume.pdf
+  icon: fas fa-file-pdf
+  url: Xian Liu - Resume.pdf
 - title:
   icon: fas fa-globe
   url: bluebeatlehd.github.io
