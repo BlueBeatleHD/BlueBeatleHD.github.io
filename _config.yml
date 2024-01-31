@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Xian, a recent graduate aspiring to excel as a Business and Data Analyst. I'm passionate about unraveling insights from data to drive informed business decisions. Eager to leverage analytical skills and a keen interest in data interpretation, I aim to contribute meaningfully to the field of data analytics.
   
-  I am actively exploring employment opportunities that not only immerse me in the realm of business and data analytics, but also foster my professional growth, and  continually broaden my expertise and propel my career forward.
+  I am actively exploring employment opportunities that not only immerse me in the realm of business and data analytics, but also foster my professional growth, and continually broaden my expertise and propel my career forward.
 
   I am most skilled in: <mark>Data Analytics</mark> and <mark>Technology Management</mark>
 
@@ -68,10 +68,9 @@ content:
             url: https://github.com/BlueBeatleHD
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I am currently involved in several projects within the analytics and data field. Feel free to take a look at my GitHub page linked above to see some of the work I've been doing.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
