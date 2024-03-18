@@ -72,10 +72,8 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: 
-        description: | # this will include new lines to allow paragraphs
-        <div style="text-align: center;">
+        description: > # | this will include new lines to allow paragraphs
           I am currently involved in several projects within the analytics and data field. Feel free to take a look at my GitHub page linked above to see some of the work I've been doing.
-        </div>
 
 
   - title: Education # Title for the section
