@@ -57,6 +57,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>SQL</mark> and <mark>Data Analytics</mark>
 
+
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -74,6 +76,7 @@ content:
         quote: 
         description: > # | this will include new lines to allow paragraphs
           I am currently involved in several projects within the analytics and data field. Feel free to take a look at my GitHub page linked above to see some of the work I've been doing.
+
 
 
   - title: Education # Title for the section
@@ -105,7 +108,6 @@ content:
           - Managing Cultural Diversity
           
           
-         
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -125,6 +127,8 @@ content:
             - Simplified monthly revenue calculation methods using Excel and Power BI to analyzed business growth using KPIs and prepared payroll information.
             - Monitored compliance with health and fire regulations regarding food preparation, serving, and building maintenance in lodging and dining facilities.
             
+
+
       - layout: left
         title: Freelance Tutoring
         # link_text: 
@@ -134,10 +138,9 @@ content:
           Before I entered the IT field, I was a student studying chemistry. Many of my classmates struggled in the courses. I spent a large portion of time tring my best to explain the concepts in our group chat. I started tutoring when one student requested a one-on-one environment. The success of the student led to others to also request the service.
         description: | # this will include new lines to allow paragraph
             - Conducted personalized one-on-one tutoring sessions via Zoom, improving students' exam scores by an average of 20% through customized teaching strategies.
-            - Tutored in classes such as statistics, trigonometry, algebra, general chemistry, and organic chemistry.
             - Assisted 25+ students in reviewing for exams, with 95% achieving improved scores by at least one grade, by focusing on tailored learning strategies.
+            - Tutored in classes such as statistics, trigonometry, algebra, general chemistry, and organic chemistry.
             - Regularly monitored and evaluated student progress regularly, providing data-driven feedback to help students meet academic goals.
-
 
 
 
